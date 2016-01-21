@@ -43,6 +43,25 @@ e. Show fares and other expenses.
 
 You are supposed to write code in HTML and JavaScript. Syntax is not a problem, 
 your understanding of the problem statement and approach to the same is of primary concern.
+<html>
+<head>
+</head>
+<title> travel</title>
+<body>
+<select>
+  <option value="origin">origin</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="2">2</option>
+</select>
+<select>
+  <option value="des">des</option>
+  <option value="1">1</option>
+  <option value="2">2</option>
+  <option value="3">3</option>
+</select>
+</body>
+</html>
 
 
 3) Closest to zero 									    20 Marks
